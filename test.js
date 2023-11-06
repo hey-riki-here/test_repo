@@ -1,0 +1,1 @@
+console.log('SuiteScript 2.0!');
